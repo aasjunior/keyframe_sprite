@@ -1,0 +1,10 @@
+#goku-ssj3{
+    background: url("../imgs/goku_ssj3.png");
+    width: 100px;
+    height: 175px;
+    animation: anima-div 12s steps(29) infinite;
+}
+@keyframes  anima-div{
+    from{background-position: 0px;}
+    to{background-position: -2900px;}
+}
